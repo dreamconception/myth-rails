@@ -25,6 +25,6 @@ If you need to test against local gems, use Bundler's gem :path option in the Ge
 
 ## Code Status
 
-* [![Travis CI](https://api.travis-ci.org/rails/myth-rails.png)](http://travis-ci.org/rails/myth-rails)
+* [![Travis CI](https://api.travis-ci.org/dreamconception/myth-rails.png)](http://travis-ci.org/rails/myth-rails)
 * [![Gem Version](https://badge.fury.io/rb/myth-rails.png)](http://badge.fury.io/rb/myth-rails)
-* [![Dependencies](https://gemnasium.com/rails/myth-rails.png)](https://gemnasium.com/rails/myth-rails)
+* [![Dependencies](https://gemnasium.com/dreamconception/myth-rails.png)](https://gemnasium.com/rails/myth-rails)
