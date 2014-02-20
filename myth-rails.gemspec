@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Dan Schultzer"]
   s.email       = ["dan@dreamconception.com"]
-  s.homepage    = "https://github.com/danschultzer/myth-rails"
+  s.homepage    = "https://github.com/dreamconception/myth-rails"
   s.summary     = %q{Myth adapter for the Rails asset pipeline.}
   s.description = %q{Myth adapter for the Rails asset pipeline.}
 
