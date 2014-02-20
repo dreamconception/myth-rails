@@ -1,0 +1,5 @@
+require 'myth'
+require 'myth/rails/template_handler'
+require 'myth/rails/myth_template'
+require 'myth/rails/engine'
+require 'myth/rails/version'
