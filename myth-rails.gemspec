@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{Myth adapter for the Rails asset pipeline.}
   s.description = %q{Myth adapter for the Rails asset pipeline.}
 
-  s.add_runtime_dependency 'myth',          '>= 1.0.0'
+  s.add_runtime_dependency 'myth',          '>= 1.0.1'
   s.add_runtime_dependency 'railties',      '>= 4.0.0', '< 5.0'
 
   s.files         = Dir.glob("{bin,lib}/**/*") + %w(MIT-LICENSE README.md)
