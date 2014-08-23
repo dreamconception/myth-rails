@@ -1,15 +1,15 @@
 :root {
-  var-green: #a6c776;
+  --green: #a6c776;
 }
 
 a {
-  color: var(green);
+  color: var(--green);
   font-variant: all-small-caps;
   transition: color 1s;
 }
 
 a:hover {
-  color: color(var(green) shade(20%));
+  color: color(var(--green) shade(20%));
 }
 
 ::placeholder {
